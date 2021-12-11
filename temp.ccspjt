@@ -1,0 +1,26 @@
+[PROJECT]
+Target=temp.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=temp.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\Users\Fumatto\Documents\CCS C Projects\Trabalhos\Projetos\Controle de Temperatura\temp]
+Type=4
+[mru-list]
+1=temp.c
+[Opened Files]
+1=temp.c
+2=temp.h
+3=
+4=..\..\..\..\..\..\..\Program Files (x86)\PICC\Devices\16F877A.h
+5=..\..\..\..\..\..\..\Program Files (x86)\PICC\examples\ex_pwm.c
+6=
+[temp.c]
+Type=4
+[Units]
+Count=1
+1=temp (main)

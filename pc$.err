@@ -1,0 +1,9 @@
+>>> Warning 205 "temp.c" Line 84(1,1): Unsigned variable is never less than zero
+>>> Warning 204 "temp.c" Line 84(1,1): Condition always FALSE
+>>> Warning 206 "temp.c" Line 86(1,1): Variable of this data type is never greater than this constant
+>>> Warning 204 "temp.c" Line 86(1,1): Condition always FALSE
+*** Error 173 "temp.c" Line 106(6,10): Functions may not be nested
+*** Error 51 "temp.c" Line 109(12,13): A numeric expression must appear here
+*** Error 79 "temp.c" Line 158(1,2): Expect }
+      3 Errors,  4 Warnings.
+Build Failed.
